@@ -3,3 +3,6 @@ Type "help", "copyright", "credits" or "license()" for more information.
 >>> # Created a project for GitHub
 >>> # By Sangki Jun
 >>> 
+print("COP2002 Fall 2024")
+
+print("Im understanding how to use GitHub to keep track of changes!")
